@@ -5,7 +5,7 @@ body {
 	font-size: 20px;
 	font-family: '微软雅黑', '宋体', sans-serif;
 	color: #000000;
-	overflow: auto
+	overflow: auto;
 }
 
 a {
@@ -109,3 +109,13 @@ a {
 	transform-origin: 0 0;
 	/* scale: 0.5; */
 }
+
+/* #big_bg {
+	width: 1920px;
+	height: 1080px;
+	position: absolute;
+	transform-origin: 0 0;
+	top: 0;
+	left: 0;
+	background-image: url("../images/bg.jpg");
+} */
