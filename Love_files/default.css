@@ -88,8 +88,8 @@ a {
 	width: 100px;
 	height: 100px;
 	left: 20px;
-	bottom: 20px;
-	position: absolute;
+	bottom: -530px;
+	/* top: 780px; */
+	position: relative;
 	z-index: 98;
-
 }
