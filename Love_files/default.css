@@ -93,3 +93,19 @@ a {
 	position: relative;
 	z-index: 98;
 }
+
+#div_pure_words_bg {
+	width: 1080px;
+	height: 1920px;
+	/* min-height: 500px; */
+	/* background-size: 100%; */
+	background-repeat: no-repeat;
+	/* background-attachment: fixed; */
+	background-image: url("../images/2.jpg");
+	position: absolute;
+	top: 0;
+	left: 0;
+	/* transform: translate(-50%, -50%); */
+	transform-origin: 0 0;
+	/* scale: 0.5; */
+}
