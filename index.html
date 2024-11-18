@@ -135,6 +135,7 @@
                 x = e.pageX - offset.left;
                 y = e.pageY - offset.top;
                 if (seed.hover(x, y)) {
+                    bg.fadeOut(1000);
                     hold = 0;
                     canvas.unbind("click");
                     canvas.unbind("mousemove");
